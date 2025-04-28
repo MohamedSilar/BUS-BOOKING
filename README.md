@@ -6,7 +6,7 @@ A simple Bus Reservation System built using **Java**. This system allows users t
 ### 🌟 **Features**  
 1️⃣ **Bus Information** 🚌  
    - Displays details about available buses, such as:  
-     ➡️ Bus Number  
+     ➡️ Bus Numben  
      ➡️ AC/Non-AC status  
      ➡️ Travel Date  
      ➡️ Bus Owner  

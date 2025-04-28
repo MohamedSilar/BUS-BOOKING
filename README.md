@@ -8,7 +8,7 @@ A simple Bus Reservation System built using **Java**. This system allows users t
    - Displays details about available buses, such as:  
      ➡️ Bus Numben  
      ➡️ AC/Non-AC status  
-     ➡️ Travel Date  
+     ➡️ Travel Date 
      ➡️ Bus Owner  
 
 2️⃣ **Booking Process** ✍️  
